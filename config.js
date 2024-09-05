@@ -35,7 +35,7 @@ global.dbase = process.env.DBASE || "";//Mongodb here
 global.AuthorWhatsapp = "https://wa.me/2347080968564"; //Bot creator WhatsApp link,don't change or bot will not work.
 */
 global.Owner = ["𝑅𝛥𝑆𝛪𝑌𝛥999"];
-global.OwnerNumber = ["94753721749"];
+global.OwnerNumber = ["94783694260"];
 global.ownertag = [""]; 
 global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
 global.BotName = "🐦Makino-md-v2";
@@ -43,7 +43,7 @@ global.packname = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";                             //Do
 global.author = "🐦Makino md ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ";                               //Do not change.
 global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm "; 
-global.sessID = process.env.sessID || ""; //Session ID here.
+global.sessID = process.env.sessID || "{"noiseKey":{"private":{"type":"Buffer","data":"eLGbes9bHghs3hvYd5uKhenRd2q3kVZsKIVJHQwWH0k="},"public":{"type":"Buffer","data":"2GnFZv9UlWpVb2jRdNyUxJxX7kVUem0+zI0H+cYm5Cs="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"GN8RHknYn+gSMbakUqQ/sWru9ze1t3dZKWNuMxYdnWg="},"public":{"type":"Buffer","data":"O8zpuD2BQ8GHSnxKmyy5WrstKryKGT5rNvunEu8omAs="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"wN6SDleb8ZssFgn4R/B3eA7e5m2qOpsjN7OK3JxSQFQ="},"public":{"type":"Buffer","data":"Uf011Mdqb2wtceimBUsc58uNNrdhE4bzTiv8rZwLXC4="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"8AvUbJIOcKCFY03kpSByhWTXmRLE25sW76uCHu2Tr3A="},"public":{"type":"Buffer","data":"oE6tAn1hjcJ/I4Pd51cGriHhLObP3amMREJ/7uLI/X8="}},"signature":{"type":"Buffer","data":"+s5wY88dHb8UNZZtmYPETravShd9AdQNMgdlCLd+R/lG2GNbKOwDrD3ZpNVjV5q+8OIJ8djQrFUS4BUfuhLcDw=="},"keyId":1},"registrationId":180,"advSecretKey":"kfOINvr96f8y3UzNcbm42afvvHsBtSsIsEFFzvYkIIE=","processedHistoryMessages":[],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":0,"accountSettings":{"unarchiveChats":false},"deviceId":"yjy70OlITBWkz_sWx1mqzQ","phoneId":"f323e042-bfaa-478d-acf7-b9ff35e6727f","identityId":{"type":"Buffer","data":"rHwuQ+qp/BkOOLPyeyEuvt8aaoU="},"registered":true,"backupToken":{"type":"Buffer","data":"MP9JFwEBo07oYCw6eJUostUSspo="},"registration":{},"pairingCode":"84A7SZ9C","me":{"id":"94783694260:60@s.whatsapp.net"},"account":{"details":"CNuIyusDEL3M5LYGGAEgACgA","accountSignatureKey":"42b6ErIxq4ANDddyOMAqHL4DJBW9kAcXtIHwztOp700=","accountSignature":"/syEmEo0+WmtaudxUCHOr1WAJ+7Nn0gATfWpi2FuCp6EpKIDjAJqpCnq1hCy9VQpE1CtMsn5WXXOgscvFLD4BA==","deviceSignature":"aXS992/B763Yua0cbyRpyl/c1BycJUqOt8K+UGvxBRJS/MSn8H8uXoRxcP2buTw0/fu+hH15L5oDzf7jc4JzDw=="},"signalIdentities":[{"identifier":{"name":"94783694260:60@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BeNm+hKyMauADQ3XcjjAKhy+AyQVvZAHF7SB8M7Tqe9N"}}],"platform":"android","lastAccountSyncTimestamp":1725507146,"myAppStateKeyId":"AAAAAKxC"}"; //Session ID here.
 global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm"; //Do not change!
 //global.dbase = process.env.DBASE || "";//Mongodb here
 global.AuthorWhatsapp = "https://wa.me/2347080968564"; //Bot creator WhatsApp link,don't change or bot will not work.
